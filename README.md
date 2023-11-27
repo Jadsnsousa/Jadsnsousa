@@ -9,7 +9,7 @@ Sempre fui fascinado por tecnologia e jogos, descobri a programação com 23 ano
 *   🌍  Sou de Salvador/Bahia
 *   ✉️  Você pode entrar em contato comigo pelo email: [jadsonnascimentojsn@gmail.com](mailto:jadsonnascimentojsn@gmail.com)
 *   🧠  Eu estou estudando Python, Django, MySQL, RPA e Automação de processos.
-*   ⚡  Gosto do cheiro de café, mas não bebo café.### Skills 
+*   ⚡  Gosto do cheiro de café, mas não bebo café.
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
                     </p>
