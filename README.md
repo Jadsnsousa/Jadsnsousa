@@ -17,7 +17,7 @@ Sempre fui fascinado por tecnologia e jogos, descobri a programação com 23 ano
                   ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://discord.com/users/jadssauro" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
